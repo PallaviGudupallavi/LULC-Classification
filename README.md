@@ -64,7 +64,15 @@ The model is evaluated using:
 
 ## Results
 
+<img width="1760" height="1219" alt="combined_charts" src="https://github.com/user-attachments/assets/c55f59b7-cdac-40a2-a1e0-f33d303dafd4" />
+
+
 The trained model successfully classifies satellite images into their respective land cover categories, demonstrating the effectiveness of deep learning for remote sensing applications and environmental monitoring.
+<img width="451" height="410" alt="ORR" src="https://github.com/user-attachments/assets/0a05dcfa-3c77-4c5f-a16f-fcded62ef55c" />
+
+<img width="531" height="456" alt="CLASS ORR" src="https://github.com/user-attachments/assets/ae9229d5-bb85-450b-a950-0076ce1f05c2" />
+
+
 
 ## Future Improvements
 
